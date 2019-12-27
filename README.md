@@ -15,8 +15,6 @@ To install go to https://www.python.org/downloads/ and download the respective f
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development environment running
-
 Paste the snap.py file inside the main folder after you have extracted the .zip file.
 
 To run the code 
